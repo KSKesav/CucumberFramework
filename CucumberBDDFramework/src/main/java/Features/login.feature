@@ -46,7 +46,7 @@ Feature: Title of your feature
       
 Feature: Login Free CRM Application
 
-Scenario: outline scenario
+Scenario: outline scenario outline
 
 
 
